@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+div{
+  text-align: center;
+}
+
+.task{
+  border-bottom: 5px solid black;
+}
